@@ -29,7 +29,8 @@
                    <key>url</key>
                    <string>http://www.dy03.vip/img/icon100.png</string>
                </dict>
-           </array><key>metadata</key>
+           </array>
+           <key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
                <string>com.ccssoft.mopclient.chongqing</string>
@@ -38,9 +39,9 @@
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>toudou</string>
+               <string>douya</string>
                <key>title</key>
-               <string>toudou</string>
+               <string>douya</string>
            </dict>
        </dict>
    </array>
